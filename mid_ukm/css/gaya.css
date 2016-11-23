@@ -1,5 +1,5 @@
 body {
-  background-color: #1A00FF;
+  background-color: #00C5FF;
 }
 
 h1 {
@@ -15,4 +15,9 @@ h1 {
 
 .navbar-inverse .navbar-brand {
   color: #FFFFFF;
+}
+legend {
+	text-align: center;
+	font-family: "Segoe Print";
+	font-size: 40px;
 }
